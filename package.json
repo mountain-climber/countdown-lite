@@ -1,0 +1,23 @@
+{
+  "name": "countdown-lite",
+  "version": "1.0.0",
+  "description": "This plugin counts how much time is left until the date you set.",
+  "main": "countdown-lite.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mountain-climber/countdown-lite.git"
+  },
+  "author": "mountain-climber",
+    "keywords": [
+      "countdown",
+      "timer",
+      "plugin",
+      "javascript",
+      "js"
+    ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mountain-climber/countdown-lite/issues"
+  },
+  "homepage": "https://github.com/mountain-climber/countdown-lite#readme"
+}
